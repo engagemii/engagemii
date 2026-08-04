@@ -35,6 +35,6 @@ time. We observe which companies AI engines cite. We do not place citations.
 
 - Site: [engagemii.com](https://engagemii.com)
 - Blog: [engagemii.com/blog](https://engagemii.com/blog)
-- Dataset sample: [huggingface.co/datasets/engagemii/ai-visibility-sample](https://huggingface.co/datasets/engagemii/ai-visibility-sample)
+- Dataset sample: [huggingface.co/datasets/Engagemii/ai-visibility-sample](https://huggingface.co/datasets/Engagemii/ai-visibility-sample)
 
 Built by Gregory Pellitteri.
