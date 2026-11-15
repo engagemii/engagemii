@@ -13,7 +13,7 @@ your own AI visibility page. No signup, no card.
 
 ## What we offer
 
-Engagemii tracks more than 82 million companies and how visible each one is to AI answer
+Engagemii tracks more than 81 million companies and how visible each one is to AI answer
 engines. Checking and fixing your own company is free: the score, your AI visibility page,
 the fix kit and AI crawler monitoring. Plans are shown inside the account.
 
