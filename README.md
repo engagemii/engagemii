@@ -18,7 +18,7 @@ engines. Checking and fixing your own company is free: the score, your AI visibi
 the fix kit and AI crawler monitoring. Plans are shown inside the account.
 
 The data: 113 columns per company (105 included, 8 in optional add-ons). Records cost
-10 cents each, 4 cents from 5,000; the add-ons cost 1 cent a record each, 0.4 cents from
+10 cents each, 5 cents from 5,000; the add-ons cost 1 cent a record each, 0.5 cents from
 5,000. Get them as files (CSV, JSON or Excel), through the records API or MCP server, or on
 Databricks Marketplace. We never sell emails, people's names or personal phone numbers.
 
